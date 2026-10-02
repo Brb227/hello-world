@@ -1,2 +1,4 @@
 # hello-world
-Bens Manifesto
+this is Bens new Manifesto 
+i am ben
+yes#
